@@ -1,7 +1,7 @@
 <!-- __________________header__________________			 -->
 <div class="header">
 	<img src="nkarner/logo1.jpg">
-	<h1>Welcome to my firs site!!!</h1>
+	<h1>Welcome to my first site!!!</h1>
 	<br>
 	<h1>Erk Mnatsakanyan</h1>
 	<br>
