@@ -1,0 +1,17 @@
+.divaa
+{
+	border:2px solid green;
+	display: inline-block;
+	border-radius: 15px;
+	background-color: orange;
+}
+
+.divaa img
+{
+	width: 180px;
+}
+.p
+{
+	padding-left: 70px;
+	color: black;
+}

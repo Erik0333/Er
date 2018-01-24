@@ -1,0 +1,378 @@
+body
+{
+	background-image: url('nkarner/fon.jpg');
+}
+.glxavor
+{
+	width: 1300px;
+	margin: auto;
+	background-color: white;
+	margin-top: 63px;
+	border-radius: 30px;
+}
+.header
+{
+	height:250px;
+	background-image:url('nkarner/1.png');
+	background-size:100%;
+	background-image-width: 1300px;
+	padding: 5px;
+	border-radius: 20px 20px 0 0;
+}
+.header img
+{
+	width: 400px;
+	border-radius: 75%;
+	float: left;
+}
+.header h1
+{
+	color: white;
+	font-family: 'Indie Flower', cursive;
+	display: inline;
+}
+.header h1
+{
+	margin:20px;
+}
+.header ul
+{
+	color: white;
+	list-style-type: none; 
+	float: right;
+}
+.menu li
+{
+	list-style-type: none;
+	display: inline-block;
+	border-radius:15px;
+	padding: 5px;
+	margin-right: 20px;
+	font-family: 'Lobster', cursive;
+	background-color: #F1F354;
+}
+.menu ul
+{
+	padding: 10px;
+	border-radius: 15px 15px 0 0;
+	position: fixed;
+	top: 0;
+	width: 1300px;
+	background-image:  url('nkarner/fon.jpg');
+}
+a
+{
+	text-decoration: none;
+	color:black;
+}
+.menu li:hover
+{
+	background-color: #AEB404;
+}
+.dropdown
+{
+	display: inline-block;
+}
+.dropdown-content 
+{
+    display: none;
+    background-color: #F1F354;
+    z-index: 1;
+    position: absolute;
+    border-radius: 15px;
+}
+.dropdown-content a 
+{
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+.dropdown-content a:hover 
+{
+	background-color: #AEB404;
+	border-radius: 15px;
+}
+.dropdown:hover .dropdown-content 
+{
+    display: block;
+}
+.dropdown:hover .dropbtn 
+{
+    background-color: #3e8e41;
+}
+.footer
+{
+	height:140px;
+	background-image:url('nkarner/1.png');
+	background-size:100%;
+	padding: 5px;
+	border-radius: 0 0 20px 20px;
+}
+.container
+{
+	background-image:url('nkarner/fon12.jpg'); 
+	background-size: 100%;
+	padding: 10px;
+}
+.footer h1, h2
+{
+	color:white;
+	font-family: 'Eagle Lake', cursive;
+}
+.div1
+{
+	width:50%;
+	padding: 5px;
+	float:left;
+}
+#img1
+{
+	width: 100%;
+}
+.img2
+{
+	width: 32%;
+	margin-left:4px;
+}
+.div2 h1
+{
+	font-family: 'Sofadi One', cursive;
+	color: white;
+}
+.div2 p
+{
+	font-family: 'Cabin Condensed', sans-serif;
+	color: white;
+}
+.p1
+{
+	clear: left;
+	font-family: 'Ruda', sans-serif;
+	color: white;
+}
+.div3 img
+{
+	display: inline;
+	width: 120px;
+	margin-left: 30px;
+}
+.div3 h1
+{
+	color: white;
+	font-family: 'Sofadi One', cursive;
+}
+.video1 iframe
+{
+	display: inline;
+	margin:12px;
+	width: 610px;
+}
+.video1 h1
+{
+	color: white;
+	font-family: 'Sofadi One', cursive;
+}
+.container1 h1
+{
+	color: white;
+	font-family: 'Sofadi One', cursive;
+	margin:0;
+}
+.container1 
+{
+	background-image: url('nkarner/fon5.jpg');
+	padding: 15px;
+}
+.div4
+{
+	color: white;
+	width: 1000px;
+	float: left;
+}
+.div5 img, iframe
+{
+	width:250px;
+}
+.div5
+{
+	margin-left: 15px;
+}
+#idnkar
+{
+	margin-top: 10px;
+}
+.divhtml h2, p
+{
+	color: white;
+}
+.container2
+{
+	background-image: url('nkarner/fon6.jpg');
+	background-size: 100%;
+	padding: 15px;
+}
+.div7
+{
+	width: 1000px;
+	float: right;
+}
+.div7 h1
+{
+	color: white;
+	font-family: 'Sofadi One', cursive;
+	margin:0;
+}
+.div7 p
+{
+	color: white;
+	font-family: 'Playfair Display', serif;
+}
+.div8 img
+{
+	width: 250px;
+}
+#nkar8
+{
+	margin-top: 100px;
+}
+.nkar9i10
+{
+	margin-top:20px;
+}
+.div9 iframe
+{
+	width: 616px;
+}
+.container3
+{
+	background-image: url('nkarner/fon7.jpg');
+	background-size: 100%;
+	padding: 15px;
+}
+.div10 h1
+{
+	color: white;
+	font-family: 'Sofadi One', cursive;
+}
+.div10
+{
+	float: left;
+	margin-left: 100px;
+}
+.div11 h3
+{
+	color: white;
+	font-family: 'Alegreya', serif;
+}
+.div11
+{
+	display: inline-block;
+	margin: 110px;
+}
+.container3 p
+{
+	clear: left;
+	color: white;
+	font-family: 'Vollkorn', serif;
+}
+.container3 h1, h3
+{
+	color: white;
+	font-family: 'Vollkorn', serif;	
+}
+.container4
+{
+	background-image: url('nkarner/fon8.jpg');
+	background-size: 100%;
+	padding: 15px;
+}
+.div12 h1, span
+{
+	color: white;
+	font-family: 'EB Garamond', serif;
+}
+#iid
+{
+	font-family: 'Sofadi One', cursive;
+}
+.div12
+{
+	float: left;
+	margin-left: 100px;
+	padding: 20px;
+}
+.div13 iframe
+{
+	width: 700px;
+}
+.div14 h1, span
+{
+	color: white;
+	font-family: 'Sofadi One', cursive;
+}
+.div14 a
+{
+	color: white;
+	text-decoration: underline;
+}
+.container5 img
+{
+	width: 430px;
+	background-image: url('nkarner/fon2.jpg');
+	background-size: 100%;
+}
+.container5 
+{
+	background-image: url('nkarner/fon2.jpg');
+	background-size: 100%;
+}
+.container6
+{
+	background-image: url('nkarner/fon1.jpg');
+	background-size: 100%;
+	padding: 15px;
+}
+.container6 h1, p
+{
+	margin:0;
+	color: white;
+}
+.container6 h1
+{
+	font-family: 'Sofadi One', cursive;
+}
+.nkarzidan
+{
+	float:left;
+}
+.pp1
+{
+	clear: left;
+}
+.pp1
+{
+	clear: right;
+}
+.nkarnkar1
+{
+	float:right;
+}
+.divdivdiv iframe
+{
+	width: 600px;
+}
+#ifr1
+{
+	margin-right: 60px;
+}
+.container7
+{
+	background-image: url('nkarner/fon6.jpg');
+	background-size: 100%;
+	padding: 10px;
+}
+.container7 iframe
+{
+	width: 628px;
+}
